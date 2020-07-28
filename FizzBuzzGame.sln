@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzGame", "FizzBuzzGame\FizzBuzzGame.csproj", "{CA0FFEB1-C300-408A-B058-AE857320077E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA0FFEB1-C300-408A-B058-AE857320077E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0FFEB1-C300-408A-B058-AE857320077E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA0FFEB1-C300-408A-B058-AE857320077E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA0FFEB1-C300-408A-B058-AE857320077E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61216D25-FD79-41E3-84A5-E106031E7CAC}
+	EndGlobalSection
+EndGlobal
