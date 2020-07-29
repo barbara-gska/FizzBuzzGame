@@ -19,7 +19,7 @@ namespace FizzBuzzGame
             {
                 Console.WriteLine("Wprowadź liczbę: ");
                 if (int.TryParse(Console.ReadLine(), out int number))
-                    game.FizzOrBuzz(number);
+                    Console.WriteLine(game.FizzOrBuzz(number));
                 else
                     Console.WriteLine("Wprowadzono nieprawidłowe dane.");
 

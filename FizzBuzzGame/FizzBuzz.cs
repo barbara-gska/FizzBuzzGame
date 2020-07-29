@@ -8,23 +8,23 @@ namespace FizzBuzzGame
 {
     class FizzBuzz
     {
-        public void FizzOrBuzz(int number)
+        public string FizzOrBuzz(int number)
         {
             if (number % 3 == 0 && number % 5 == 0)
             {
-                Console.WriteLine("FizzBuzz");
+                return "FizzBuzz";
             }
             else if (number % 3 == 0)
             {
-                Console.WriteLine("Fizz");
+                return "Fizz";
             }
             else if (number % 5 == 0)
             {
-                Console.WriteLine("Buzz");
+                return "Buzz";
             }
             else
             {
-                Console.WriteLine(number);
+                return number.ToString();
             }
         }
     }
