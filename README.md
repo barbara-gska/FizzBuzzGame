@@ -1,3 +1,3 @@
-# Tydzien4PracaDomowa2
+# FizzBuzz
 
 Gra FizzBuzz
